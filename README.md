@@ -6,10 +6,18 @@ Not affiliated with or endorsed by Mailfence / ContactOffice Group. It simply di
 Install
 Dependencies (Arch): 
 
+```bash
 sudo pacman -S python-gobject gtk4 webkitgtk-6.0
+```
+```bash
 git clone https://github.com/NotRixard/mailfence-app
+```
+```bash
 cd mailfence-app
+```
+```bash
 bash install.sh
+```
 
 Run mailfence-app or launch "Mailfence" from your app menu. Set MAILFENCE_DEBUG=1 to print loaded URLs to the terminal.
 
