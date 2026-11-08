@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Mailfence
+Comment=Unofficial desktop wrapper for the Mailfence web app
+Exec=mailfence-app
+Icon=dev.local.Mailfence
+Categories=Network;Email;
+StartupWMClass=dev.local.Mailfence
+Terminal=false
