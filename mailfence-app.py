@@ -10,7 +10,7 @@ gi.require_version("WebKit", "6.0")
 from gi.repository import Gio, GLib, Gtk, WebKit
 
 URL = "https://mailfence.com"
-APP_ID = "dev.local.Mailfence"
+APP_ID = "io.github.NotRixard.MailfenceApp"
 ALLOWED_HOSTS = ("mailfence.com",)
 COOKIE_DAYS = 30
 
